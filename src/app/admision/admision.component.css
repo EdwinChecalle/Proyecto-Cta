@@ -1,0 +1,27 @@
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+  padding: 4%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.example-full-width {
+  width: 36%;
+  padding: 2%;
+
+}
+
+.example-full-width2 {
+  width: 26%;
+  padding: 2%;
+
+}
+table {
+  width: 100%;
+}
+
+.example-button{
+  /* padding-right:3%; */
+}
